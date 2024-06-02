@@ -1,3 +1,5 @@
+imported CSV file using import table wizard
+	
 use project;
 
 select * from hotel_bookings;
